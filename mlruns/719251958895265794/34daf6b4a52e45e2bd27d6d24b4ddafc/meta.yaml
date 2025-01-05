@@ -1,0 +1,15 @@
+artifact_uri: file:///g:/Il mio Drive/6_Lavoro/Data_Science/B_Svolgimento/7_coding/normal_code/simple_code/mlruns/719251958895265794/34daf6b4a52e45e2bd27d6d24b4ddafc/artifacts
+end_time: 1736033689917
+entry_point_name: ''
+experiment_id: '719251958895265794'
+lifecycle_stage: active
+run_id: 34daf6b4a52e45e2bd27d6d24b4ddafc
+run_name: rf_model
+run_uuid: 34daf6b4a52e45e2bd27d6d24b4ddafc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736033682822
+status: 3
+tags: []
+user_id: teo83

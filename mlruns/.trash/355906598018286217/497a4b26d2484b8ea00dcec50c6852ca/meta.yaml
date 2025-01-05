@@ -1,0 +1,16 @@
+artifact_uri: file:///g:/Il mio Drive/6_Lavoro/Data_Science/B_Svolgimento/7_coding/normal_code/simple_code/mlruns/355906598018286217/497a4b26d2484b8ea00dcec50c6852ca/artifacts
+deleted_time: 1736023908022
+end_time: 1736023241965
+entry_point_name: ''
+experiment_id: '355906598018286217'
+lifecycle_stage: deleted
+run_id: 497a4b26d2484b8ea00dcec50c6852ca
+run_name: linear_models_evaluation
+run_uuid: 497a4b26d2484b8ea00dcec50c6852ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736023238692
+status: 3
+tags: []
+user_id: teo83

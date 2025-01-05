@@ -1,0 +1,16 @@
+artifact_uri: file:///g:/Il mio Drive/6_Lavoro/Data_Science/B_Svolgimento/7_coding/normal_code/simple_code/mlruns/355906598018286217/6d816d8893b14c73a1dc01dc08b3e439/artifacts
+deleted_time: 1736023908171
+end_time: 1736022886749
+entry_point_name: ''
+experiment_id: '355906598018286217'
+lifecycle_stage: deleted
+run_id: 6d816d8893b14c73a1dc01dc08b3e439
+run_name: baseline_models
+run_uuid: 6d816d8893b14c73a1dc01dc08b3e439
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736022885960
+status: 3
+tags: []
+user_id: teo83
